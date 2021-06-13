@@ -21,10 +21,13 @@ body{
 
 .login{
     padding: 80px;
+    padding: 0 10px;
 }
 
 .login-box{
     height: 300px;
+    width: 100%;
+    max-width: 500px;
 }
 
 .wrapper .title{
